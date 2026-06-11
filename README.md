@@ -1,4 +1,5 @@
 #### 开源
+- [Nomi](https://github.com/aqm857886159/Nomi)
 - [ai-video-agent](https://github.com/xuanyuanzhifeng/ai-video-agent)
 
 #### 文章
