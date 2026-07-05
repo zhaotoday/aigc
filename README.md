@@ -4,4 +4,5 @@
 - [ai-video-agent](https://github.com/xuanyuanzhifeng/ai-video-agent)
 
 #### 文章
+- [2026年风口项目：AI漫剧怎么做？这套“傻瓜式”教程请收好](https://juejin.cn/post/7594722586732789766)
 - [我用AI做了一个48秒的真人精品漫剧，不难也不贵](https://juejin.cn/post/7623609603088367631)
