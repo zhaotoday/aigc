@@ -1,4 +1,5 @@
 #### 开源
+- [ShortGPT](https://github.com/RayVentura/ShortGPT)
 - [dramaclaw](https://github.com/dramaclaw/dramaclaw)
 - [facefusion](https://github.com/facefusion/facefusion)
 - [Nomi](https://github.com/aqm857886159/Nomi)
