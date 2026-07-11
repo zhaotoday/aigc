@@ -1,4 +1,5 @@
 #### 开源
+- [Vidu-S1](https://github.com/shengshu-ai/Vidu-S1)
 - [voicebox](https://github.com/jamiepine/voicebox)
 - [markeron](https://github.com/ifer47/markeron)
 - [ShortGPT](https://github.com/RayVentura/ShortGPT)
