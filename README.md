@@ -1,4 +1,5 @@
 #### 开源
+- [voicebox](https://github.com/jamiepine/voicebox)
 - [markeron](https://github.com/ifer47/markeron)
 - [ShortGPT](https://github.com/RayVentura/ShortGPT)
 - [dramaclaw](https://github.com/dramaclaw/dramaclaw)
