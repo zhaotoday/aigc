@@ -1,4 +1,5 @@
 #### 开源
+- [Toonflow-app](https://github.com/HBAI-Ltd/Toonflow-app)
 - [Toonflow-web](https://github.com/HBAI-Ltd/Toonflow-web)
 - [Vidu-S1](https://github.com/shengshu-ai/Vidu-S1)
 - [voicebox](https://github.com/jamiepine/voicebox)
