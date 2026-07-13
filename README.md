@@ -1,4 +1,5 @@
 #### 开源
+- [OpenCut](https://github.com/OpenCut-app/OpenCut)
 - [creatorhub](https://github.com/3441293738/creatorhub)
 - [Vibefilming](https://github.com/wangzai-double-milk/Vibefilming)
 - [Toonflow-app](https://github.com/HBAI-Ltd/Toonflow-app)
