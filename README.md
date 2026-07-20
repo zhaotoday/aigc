@@ -2,6 +2,7 @@
 - [liblib](https://www.liblib.tv/)
 
 #### 开源
+- [LiveTalking](https://github.com/lipku/LiveTalking)
 - [video-autopilot-kit](https://github.com/Hao0321/video-autopilot-kit)
 - [Recordly](https://github.com/webadderallorg/Recordly)
 - [OpenCut](https://github.com/OpenCut-app/OpenCut)
