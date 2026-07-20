@@ -2,6 +2,7 @@
 - [liblib](https://www.liblib.tv/)
 
 #### 开源
+- [Recordly](https://github.com/webadderallorg/Recordly)
 - [OpenCut](https://github.com/OpenCut-app/OpenCut)
 - [creatorhub](https://github.com/3441293738/creatorhub)
 - [Vibefilming](https://github.com/wangzai-double-milk/Vibefilming)
