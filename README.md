@@ -2,6 +2,7 @@
 - [liblib](https://www.liblib.tv/)
 
 #### 开源
+- [LocalMiniDrama](https://github.com/xuanyustudio/LocalMiniDrama)
 - [LiveTalking](https://github.com/lipku/LiveTalking)
 - [video-autopilot-kit](https://github.com/Hao0321/video-autopilot-kit)
 - [Recordly](https://github.com/webadderallorg/Recordly)
