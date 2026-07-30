@@ -2,6 +2,7 @@
 - [liblib](https://www.liblib.tv/)
 
 #### 开源
+- [langchain4j-aideepin](https://github.com/moyangzhan/langchain4j-aideepin)
 - [video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft)
 - [LocalMiniDrama](https://github.com/xuanyustudio/LocalMiniDrama)
 - [LiveTalking](https://github.com/lipku/LiveTalking)
