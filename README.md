@@ -4,6 +4,7 @@
 - [liblib](https://www.liblib.tv/)
 
 #### 开源
+- [VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner)
 - [hackclub/ai](https://github.com/hackclub/ai)
 - [image-matting](https://github.com/pangxiaobin/image-matting)
 - [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)
