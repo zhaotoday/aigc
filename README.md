@@ -4,6 +4,7 @@
 - [liblib](https://www.liblib.tv/)
 
 #### 开源
+- [video-subtitle-remover](https://github.com/YaoFANGUK/video-subtitle-remover)
 - [VideoLingo](https://github.com/Huanshere/VideoLingo)
 - [VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner)
 - [hackclub/ai](https://github.com/hackclub/ai)
