@@ -4,6 +4,7 @@
 - [liblib](https://www.liblib.tv/)
 
 #### 开源
+- [VideoLingo](https://github.com/Huanshere/VideoLingo)
 - [VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner)
 - [hackclub/ai](https://github.com/hackclub/ai)
 - [image-matting](https://github.com/pangxiaobin/image-matting)
