@@ -4,6 +4,7 @@
 - [liblib](https://www.liblib.tv/)
 
 #### 开源
+- [LocalAI](https://github.com/mudler/LocalAI)
 - [Pixelle-Video](https://github.com/ATH-MaaS/Pixelle-Video)
 - [BypassAIGC](https://github.com/chi111i/BypassAIGC)
 - [Awesome-AIGC-Image-Video-Detection](https://github.com/ant-research/Awesome-AIGC-Image-Video-Detection)
