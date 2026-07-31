@@ -4,6 +4,7 @@
 - [liblib](https://www.liblib.tv/)
 
 #### 开源
+- [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)
 - [LocalAI](https://github.com/mudler/LocalAI)
 - [Pixelle-Video](https://github.com/ATH-MaaS/Pixelle-Video)
 - [BypassAIGC](https://github.com/chi111i/BypassAIGC)
