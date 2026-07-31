@@ -5,6 +5,7 @@
 - [liblib](https://www.liblib.tv/)
 
 #### 开源
+- [clipforge](https://github.com/xixihhhh/clipforge)
 - [lobe-ui](https://github.com/lobehub/lobe-ui)
 - [AIGCCanvasFlow](https://github.com/MaLunan/AIGCCanvasFlow)
 - [aigc-weekly](https://github.com/miantiao-me/aigc-weekly)
