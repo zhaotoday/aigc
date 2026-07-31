@@ -4,6 +4,7 @@
 - [liblib](https://www.liblib.tv/)
 
 #### 开源
+- [KrillinAI](https://github.com/krillinai/KrillinAI)
 - [awesome-generative-ai-apps](https://github.com/Anil-matcha/awesome-generative-ai-apps)
 - [awesome-ai-video-models](https://github.com/Anil-matcha/awesome-ai-video-models)
 - [ai-video-agent](https://github.com/xuanyuanzhifeng/ai-video-agent)
