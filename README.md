@@ -4,6 +4,7 @@
 - [liblib](https://www.liblib.tv/)
 
 #### 开源
+- [agnes-ai-generation-skill](https://github.com/Yacey/agnes-ai-generation-skill)
 - [xiaohu-video-translate](https://github.com/xiaohuailabs/xiaohu-video-translate)
 - [waoowaoo](https://github.com/waooAI/waoowaoo)
 - [Generative-Media-Skills](https://github.com/SamurAIGPT/Generative-Media-Skills)
