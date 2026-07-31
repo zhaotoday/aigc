@@ -4,6 +4,7 @@
 - [liblib](https://www.liblib.tv/)
 
 #### 开源
+- [short-video-factory](https://github.com/YILS-LIN/short-video-factory)
 - [VideoClaw](https://github.com/HITsz-TMG/VideoClaw)
 - [hyperframes](https://github.com/heygen-com/hyperframes)
 - [ai-moive-studio](https://github.com/869413421/ai-moive-studio)
