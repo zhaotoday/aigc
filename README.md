@@ -4,6 +4,7 @@
 - [liblib](https://www.liblib.tv/)
 
 #### 开源
+- [video-Ai-note](https://github.com/Jehuge/video-Ai-note)
 - [backgroundremover](https://github.com/nadermx/backgroundremover)
 - [short-video-generator-AI](https://github.com/OStudi/short-video-generator-AI)
 - [Vibe-Workflow](https://github.com/SamurAIGPT/Vibe-Workflow)
