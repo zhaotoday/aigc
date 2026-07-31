@@ -4,6 +4,7 @@
 - [liblib](https://www.liblib.tv/)
 
 #### 开源
+- [video-to-subtitle-summary-skill](https://github.com/imlewc/video-to-subtitle-summary-skill)
 - [MatrixMedia](https://github.com/hanliang97/MatrixMedia)
 - [timeline-studio](https://github.com/chatman-media/timeline-studio)
 - [flycut-caption](https://github.com/x007xyz/flycut-caption)
