@@ -4,6 +4,7 @@
 - [liblib](https://www.liblib.tv/)
 
 #### 开源
+- [ai-moive-studio](https://github.com/869413421/ai-moive-studio)
 - [livekit/agents](https://github.com/livekit/agents)
 - [palmier-pro](https://github.com/palmier-io/palmier-pro)
 - [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)
