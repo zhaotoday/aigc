@@ -4,6 +4,7 @@
 - [liblib](https://www.liblib.tv/)
 
 #### 开源
+- [Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
 - [short-video-factory](https://github.com/YILS-LIN/short-video-factory)
 - [VideoClaw](https://github.com/HITsz-TMG/VideoClaw)
 - [hyperframes](https://github.com/heygen-com/hyperframes)
