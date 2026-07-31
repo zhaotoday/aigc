@@ -4,6 +4,7 @@
 - [liblib](https://www.liblib.tv/)
 
 #### 开源
+- [image-matting](https://github.com/pangxiaobin/image-matting)
 - [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)
 - [LocalAI](https://github.com/mudler/LocalAI)
 - [Pixelle-Video](https://github.com/ATH-MaaS/Pixelle-Video)
