@@ -4,6 +4,7 @@
 - [liblib](https://www.liblib.tv/)
 
 #### 开源
+- [timeline-studio](https://github.com/chatman-media/timeline-studio)
 - [flycut-caption](https://github.com/x007xyz/flycut-caption)
 - [seedance-prompt](https://github.com/zhouwei713/seedance-prompt)
 - [edit-mind](https://github.com/IliasHad/edit-mind)
