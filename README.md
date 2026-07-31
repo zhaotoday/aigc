@@ -4,6 +4,7 @@
 - [liblib](https://www.liblib.tv/)
 
 #### 开源
+- [short-video-generator-AI](https://github.com/OStudi/short-video-generator-AI)
 - [Vibe-Workflow](https://github.com/SamurAIGPT/Vibe-Workflow)
 - [autoclip](https://github.com/zhouxiaoka/autoclip)
 - [video-to-subtitle-summary-skill](https://github.com/imlewc/video-to-subtitle-summary-skill)
