@@ -3,6 +3,7 @@
 - [liblib](https://www.liblib.tv/)
 
 #### 开源
+- [BypassAIGC](https://github.com/chi111i/BypassAIGC)
 - [Awesome-AIGC-Image-Video-Detection](https://github.com/ant-research/Awesome-AIGC-Image-Video-Detection)
 - [aigcpanel](https://github.com/modstart-lib/aigcpanel)
 - [langchain4j-aideepin](https://github.com/moyangzhan/langchain4j-aideepin)
