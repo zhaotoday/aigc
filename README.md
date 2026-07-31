@@ -4,6 +4,7 @@
 - [liblib](https://www.liblib.tv/)
 
 #### 开源
+- [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)
 - [video-subtitle-remover](https://github.com/YaoFANGUK/video-subtitle-remover)
 - [VideoLingo](https://github.com/Huanshere/VideoLingo)
 - [VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner)
