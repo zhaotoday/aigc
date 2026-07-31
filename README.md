@@ -4,6 +4,7 @@
 - [liblib](https://www.liblib.tv/)
 
 #### 开源
+- [AIGCCanvasFlow](https://github.com/MaLunan/AIGCCanvasFlow)
 - [aigc-weekly](https://github.com/miantiao-me/aigc-weekly)
 - [video-Ai-note](https://github.com/Jehuge/video-Ai-note)
 - [backgroundremover](https://github.com/nadermx/backgroundremover)
