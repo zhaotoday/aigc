@@ -4,6 +4,7 @@
 - [liblib](https://www.liblib.tv/)
 
 #### 开源
+- [waoowaoo](https://github.com/waooAI/waoowaoo)
 - [Generative-Media-Skills](https://github.com/SamurAIGPT/Generative-Media-Skills)
 - [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
 - [KrillinAI](https://github.com/krillinai/KrillinAI)
