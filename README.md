@@ -4,6 +4,7 @@
 - [liblib](https://www.liblib.tv/)
 
 #### 开源
+- [video-podcast-maker](https://github.com/Agents365-ai/video-podcast-maker)
 - [ai-subtitles](https://github.com/Nutlope/ai-subtitles)
 - [AI-generated-English-podcast-videos](https://github.com/liangdabiao/AI-generated-English-podcast-videos)
 - [ai-video-editor](https://github.com/MartinDelophy/ai-video-editor)
