@@ -4,6 +4,7 @@
 - [liblib](https://www.liblib.tv/)
 
 #### 开源
+- [Pilipili-AutoVideo](https://github.com/OpenDemon/Pilipili-AutoVideo)
 - [video-mover](https://github.com/toki-plus/video-mover)
 - [agnes-ai-generation-skill](https://github.com/Yacey/agnes-ai-generation-skill)
 - [xiaohu-video-translate](https://github.com/xiaohuailabs/xiaohu-video-translate)
