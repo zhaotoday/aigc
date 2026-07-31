@@ -4,6 +4,7 @@
 - [liblib](https://www.liblib.tv/)
 
 #### 开源
+- [ai-subtitles](https://github.com/Nutlope/ai-subtitles)
 - [AI-generated-English-podcast-videos](https://github.com/liangdabiao/AI-generated-English-podcast-videos)
 - [ai-video-editor](https://github.com/MartinDelophy/ai-video-editor)
 - [lanshu-awesome-ai-video-kit](https://github.com/cclank/lanshu-awesome-ai-video-kit)
