@@ -5,6 +5,7 @@
 - [liblib](https://www.liblib.tv/)
 
 #### 开源
+- [InfiniteTalk](https://github.com/MeiGen-AI/InfiniteTalk)
 - [aliang-skills](https://github.com/aliang2052/aliang-skills)
 - [Fashion-AI](https://github.com/liangdabiao/Fashion-AI)
 - [clipforge](https://github.com/xixihhhh/clipforge)
