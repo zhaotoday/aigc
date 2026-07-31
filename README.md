@@ -4,6 +4,7 @@
 - [liblib](https://www.liblib.tv/)
 
 #### 开源
+- [xiaohu-video-translate](https://github.com/xiaohuailabs/xiaohu-video-translate)
 - [waoowaoo](https://github.com/waooAI/waoowaoo)
 - [Generative-Media-Skills](https://github.com/SamurAIGPT/Generative-Media-Skills)
 - [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
