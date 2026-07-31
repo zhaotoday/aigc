@@ -4,6 +4,7 @@
 - [liblib](https://www.liblib.tv/)
 
 #### 开源
+- [seedance-prompt](https://github.com/zhouwei713/seedance-prompt)
 - [edit-mind](https://github.com/IliasHad/edit-mind)
 - [Pilipili-AutoVideo](https://github.com/OpenDemon/Pilipili-AutoVideo)
 - [video-mover](https://github.com/toki-plus/video-mover)
