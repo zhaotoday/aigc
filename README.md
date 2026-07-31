@@ -4,6 +4,7 @@
 - [liblib](https://www.liblib.tv/)
 
 #### 开源
+- [Vibe-Workflow](https://github.com/SamurAIGPT/Vibe-Workflow)
 - [autoclip](https://github.com/zhouxiaoka/autoclip)
 - [video-to-subtitle-summary-skill](https://github.com/imlewc/video-to-subtitle-summary-skill)
 - [MatrixMedia](https://github.com/hanliang97/MatrixMedia)
