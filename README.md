@@ -1,4 +1,5 @@
 #### 产品
+- [aigcpanel](https://aigcpanel.com/)
 - [liblib](https://www.liblib.tv/)
 
 #### 开源
