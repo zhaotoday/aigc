@@ -4,6 +4,7 @@
 - [liblib](https://www.liblib.tv/)
 
 #### 开源
+- [ai-video-editor](https://github.com/MartinDelophy/ai-video-editor)
 - [lanshu-awesome-ai-video-kit](https://github.com/cclank/lanshu-awesome-ai-video-kit)
 - [Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
 - [short-video-factory](https://github.com/YILS-LIN/short-video-factory)
