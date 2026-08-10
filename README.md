@@ -5,6 +5,7 @@
 - [liblib](https://www.liblib.tv/)
 
 #### 开源
+- [ChatTTS](https://github.com/2noise/ChatTTS)
 - [voice-pro](https://github.com/abus-aikorea/voice-pro)
 - [InfiniteTalk](https://github.com/MeiGen-AI/InfiniteTalk)
 - [aliang-skills](https://github.com/aliang2052/aliang-skills)
