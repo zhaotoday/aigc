@@ -5,6 +5,7 @@
 - [liblib](https://www.liblib.tv/)
 
 #### 开源
+- [seedtts](https://bytedancespeech.github.io/seedtts_tech_report/)
 - [ChatTTS](https://github.com/2noise/ChatTTS)
 - [voice-pro](https://github.com/abus-aikorea/voice-pro)
 - [InfiniteTalk](https://github.com/MeiGen-AI/InfiniteTalk)
