@@ -5,6 +5,7 @@
 - [liblib](https://www.liblib.tv/)
 
 #### 开源
+- [hyperframes](https://github.com/heygen-com/hyperframes)
 - [seedtts](https://bytedancespeech.github.io/seedtts_tech_report/)
 - [ChatTTS](https://github.com/2noise/ChatTTS)
 - [voice-pro](https://github.com/abus-aikorea/voice-pro)
