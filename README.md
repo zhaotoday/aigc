@@ -5,6 +5,7 @@
 - [liblib](https://www.liblib.tv/)
 
 #### 开源
+- [awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
 - [hyperframes](https://github.com/heygen-com/hyperframes)
 - [seedtts](https://bytedancespeech.github.io/seedtts_tech_report/)
 - [ChatTTS](https://github.com/2noise/ChatTTS)
