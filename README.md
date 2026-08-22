@@ -5,6 +5,7 @@
 - [liblib](https://www.liblib.tv/)
 
 #### 开源
+- [AI-Video-Transcriber](https://github.com/wendy7756/AI-Video-Transcriber)
 - [director_ai](https://github.com/freestylefly/director_ai)
 - [awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
 - [hyperframes](https://github.com/heygen-com/hyperframes)
