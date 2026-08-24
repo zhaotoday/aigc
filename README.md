@@ -6,6 +6,7 @@
 - [liblib](https://www.liblib.tv/)
 
 #### 开源
+- [jimeng-mcp-server](https://github.com/wwwzhouhui/jimeng-mcp-server)
 - [video-parser](https://github.com/wwwzhouhui/video-parser)
 - [pireel](https://github.com/pireel/pireel)
 - [clipforge](https://github.com/xixihhhh/clipforge)
