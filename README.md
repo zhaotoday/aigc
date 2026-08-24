@@ -6,6 +6,7 @@
 - [liblib](https://www.liblib.tv/)
 
 #### 开源
+- [MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)
 - [InvokeAI](https://github.com/invoke-ai/InvokeAI)
 - [jimeng-mcp-server](https://github.com/wwwzhouhui/jimeng-mcp-server)
 - [video-parser](https://github.com/wwwzhouhui/video-parser)
