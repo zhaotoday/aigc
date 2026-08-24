@@ -6,6 +6,7 @@
 - [liblib](https://www.liblib.tv/)
 
 #### 开源
+- [video-parser](https://github.com/wwwzhouhui/video-parser)
 - [pireel](https://github.com/pireel/pireel)
 - [clipforge](https://github.com/xixihhhh/clipforge)
 - [VidBee](https://github.com/nexmoe/VidBee)
