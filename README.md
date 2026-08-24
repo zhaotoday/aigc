@@ -5,6 +5,9 @@
 - [aigcpanel](https://aigcpanel.com/)
 - [liblib](https://www.liblib.tv/)
 
+#### 教程
+- [AIGC-Interview-Book](https://github.com/WeThinkIn/AIGC-Interview-Book)
+
 #### 开源
 - [MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)
 - [InvokeAI](https://github.com/invoke-ai/InvokeAI)
