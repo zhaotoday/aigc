@@ -1,4 +1,5 @@
 #### 产品
+- [pixmax](https://www.pixmax.cn/)
 - [青虎 AI](https://www.iqinghu.com/)
 - [pixpix](https://www.pixpix.com/zh-CN)
 - [deepseen](https://deepseen.ai/)
