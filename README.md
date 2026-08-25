@@ -9,6 +9,7 @@
 - [AIGC-Interview-Book](https://github.com/WeThinkIn/AIGC-Interview-Book)
 
 #### 开源
+- [awesome-seedance](https://github.com/ZeroLu/awesome-seedance)
 - [MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)
 - [InvokeAI](https://github.com/invoke-ai/InvokeAI)
 - [jimeng-mcp-server](https://github.com/wwwzhouhui/jimeng-mcp-server)
