@@ -20,6 +20,9 @@
 
 #### 开源
 
+##### 未分类的开源项目
+- [awesome-text-to-video](https://github.com/jianzhnie/awesome-text-to-video)
+
 ##### 视频生成
 - [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
 - [hyperframes](https://github.com/heygen-com/hyperframes)
