@@ -8,6 +8,7 @@
 - [liblib](https://www.liblib.tv/)
 
 #### 教程
+- [Awesome-AGI](https://github.com/ArronAI007/Awesome-AGI)
 - [AIGC-Interview-Book](https://github.com/WeThinkIn/AIGC-Interview-Book)
 
 #### 文章
