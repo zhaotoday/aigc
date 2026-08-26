@@ -21,6 +21,7 @@
 #### 开源
 
 ##### 未分类的开源项目
+- [ytb2bili](https://github.com/difyz9/ytb2bili)
 - [brightbean-studio](https://github.com/brightbeanxyz/brightbean-studio)
 - [awesome-text-to-video](https://github.com/jianzhnie/awesome-text-to-video)
 
