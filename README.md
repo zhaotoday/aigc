@@ -21,6 +21,7 @@
 #### 开源
 
 ##### 未分类的开源项目
+- [video-analyzer](https://github.com/byjlw/video-analyzer)
 - [ytb2bili](https://github.com/difyz9/ytb2bili)
 - [brightbean-studio](https://github.com/brightbeanxyz/brightbean-studio)
 - [awesome-text-to-video](https://github.com/jianzhnie/awesome-text-to-video)
