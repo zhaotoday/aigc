@@ -23,6 +23,7 @@
 #### 开源
 
 ##### 未分类的开源项目
+- [HeliosGen](https://github.com/SegFault42/HeliosGen)
 - [opentalking](https://github.com/datascale-ai/opentalking)
 - [video-analyzer](https://github.com/byjlw/video-analyzer)
 - [ytb2bili](https://github.com/difyz9/ytb2bili)
