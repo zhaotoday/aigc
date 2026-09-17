@@ -23,6 +23,7 @@
 #### 开源
 
 ##### 未分类的开源项目
+- [flowboard](https://github.com/crisng95/flowboard)
 - [ai-picture-editor](https://github.com/yuyuanweb/ai-picture-editor)
 - [HeliosGen](https://github.com/SegFault42/HeliosGen)
 - [opentalking](https://github.com/datascale-ai/opentalking)
