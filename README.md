@@ -23,6 +23,7 @@
 #### 开源
 
 ##### 未分类的开源项目
+- [hypit](https://github.com/hypit-ai/hypit)
 - [flowboard](https://github.com/crisng95/flowboard)
 - [ai-picture-editor](https://github.com/yuyuanweb/ai-picture-editor)
 - [HeliosGen](https://github.com/SegFault42/HeliosGen)
