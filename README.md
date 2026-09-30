@@ -23,6 +23,7 @@
 #### 开源
 
 ##### 未分类的开源项目
+- [awesome-opus5-5-videos](https://github.com/yihui-dev/awesome-opus5-5-videos)
 - [YouDub-webui](https://github.com/liuzhao1225/YouDub-webui)
 - [hypit](https://github.com/hypit-ai/hypit)
 - [flowboard](https://github.com/crisng95/flowboard)
